@@ -8,4 +8,4 @@ django-rosetta==0.9.3
 WeasyPrint==51
 redis==3.4.1
 whitenoise==6.2.0
-django-parler==2.0.1
+django-parler
